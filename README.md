@@ -35,6 +35,6 @@ Ensure you have boards manager installed of ESP8266, like this:
 ![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Boards%20Manager.JPG)
 
 Now install Blynk app from playstore or download apk and install, App is like this:
-![alt text]
+![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Blynk.jpg)
 
 
