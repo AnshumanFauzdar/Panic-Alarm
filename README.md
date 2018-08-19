@@ -46,5 +46,5 @@ Now get ready your IO account on adafruit on "https://io.adafruit.com" which sho
 # How to use this project?
 
 Step 1. You have to open blynk app and tap on alarm ON, which will look like this:
-![alt text]()
+![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Alarm.jpg)
 
