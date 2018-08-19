@@ -38,8 +38,8 @@ Now install Blynk app from playstore or download apk and install, App is like th
 ![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Blynk.jpg)
 
 Now install IFTTT as same steps discussed above, which looks like this:
-![alt text]()
+![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/IFTTT.JPG)
 
 Now get ready your IO account on adafruit on "https://io.adafruit.com" which should look like this:
-![alt text]()
+![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Adafruit.JPG)
 
