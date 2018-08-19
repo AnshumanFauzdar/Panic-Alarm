@@ -37,4 +37,9 @@ Ensure you have boards manager installed of ESP8266, like this:
 Now install Blynk app from playstore or download apk and install, App is like this:
 ![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Blynk.jpg)
 
+Now install IFTTT as same steps discussed above, which looks like this:
+![alt text]()
+
+Now get ready your IO account on adafruit on "https://io.adafruit.com" which should look like this:
+![alt text]()
 
