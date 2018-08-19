@@ -22,5 +22,12 @@ In case of any emergency one can easily press the panic button and siren will im
 2. ESP8266 Libraries Installed
 3. Blynk app installed
 4. IFTTT Installed
-5. Adafruit IO configured
+5. Adafruit IO configured (Trigger and Feed Set)
+
+# Arduino IDE
+
+Installing IDE from "https://www.arduino.cc/download_handler.php?f=/arduino-1.8.5-windows.exe"
+
+It should look like this 
+![alt text]
 
