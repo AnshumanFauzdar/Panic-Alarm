@@ -29,5 +29,5 @@ In case of any emergency one can easily press the panic button and siren will im
 Installing IDE from "https://www.arduino.cc/download_handler.php?f=/arduino-1.8.5-windows.exe"
 
 It should look like this 
-![alt text]
+![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Capture.JPG)
 
