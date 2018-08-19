@@ -1,12 +1,12 @@
-#Preface
+# Preface
 
 For security reasons and panic communication in residence society during any emergency using simple IOT including ESP8266 and softwares like blink, IFTTT and Adafruit IO
 
-#Working
+# Working
 
 In case of any emergency one can easily press the panic button and siren will immediately ring and every member will get notification call and notification regarding location and emergency message
 
-#Hardware Required
+# Hardware Required
 
 1. ESP8266 NodeMCU
 2. Jumper Wires
@@ -16,7 +16,7 @@ In case of any emergency one can easily press the panic button and siren will im
 6. Siren (Industrial Grade)
 7. Active Internet connection (Wifi)
 
-#Softwares Required
+# Softwares Required
 
 1. Arduino IDE
 2. ESP8266 Libraries Installed
