@@ -24,7 +24,7 @@ In case of any emergency one can easily press the panic button and siren will im
 4. IFTTT Installed
 5. Adafruit IO configured (Trigger and Feed Set)
 
-# Arduino IDE
+# Arduino IDE and stuff
 
 Installing IDE from "https://www.arduino.cc/download_handler.php?f=/arduino-1.8.5-windows.exe"
 
@@ -42,4 +42,9 @@ Now install IFTTT as same steps discussed above, which looks like this:
 
 Now get ready your IO account on adafruit on "https://io.adafruit.com" which should look like this:
 ![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Adafruit.JPG)
+
+# How to use this project?
+
+Step 1. You have to open blynk app and tap on alarm ON, which will look like this:
+![alt text]()
 
