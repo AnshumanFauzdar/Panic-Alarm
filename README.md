@@ -31,3 +31,7 @@ Installing IDE from "https://www.arduino.cc/download_handler.php?f=/arduino-1.8.
 It should look like this 
 ![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Capture.JPG)
 
+Ensure you have boards manager installed of ESP8266, like this:
+![alt text](https://github.com/AnshumanFauzdar/Panic-Alarm/blob/master/Boards%20Manager.JPG)
+
+
