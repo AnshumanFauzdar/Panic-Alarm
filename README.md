@@ -2,6 +2,8 @@
 
 For security reasons and panic communication in residence society during any emergency using simple IOT including ESP8266 and softwares like blink, IFTTT and Adafruit IO
 
+**PS- UNDER DEVELOPMENT**
+
 # Working
 
 In case of any emergency one can easily press the panic button and siren will immediately ring and every member will get notification call and notification regarding location and emergency message
