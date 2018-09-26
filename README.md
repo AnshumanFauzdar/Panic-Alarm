@@ -1,6 +1,6 @@
 # Preface
 
-For security reasons and panic communication in residence society during any emergency using simple IOT including ESP8266 and softwares like blink, IFTTT and Adafruit IO
+For security reasons and panic communication in residence society during any emergency using simple IOT including ESP8266 and softwares like blynk, IFTTT and Adafruit IO
 
 **PS- UNDER DEVELOPMENT**
 
